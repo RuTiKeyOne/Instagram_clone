@@ -5,6 +5,12 @@
 The Instagram clone application is a training project, the main purpose of which was to teach how to work with Firebase.
 
 ## Technologies used
+* `Dart`;
+* `Flutter`;
+* `Bloc`;
+* `Cloud firestore`;
+* `Firebase auth`;
+* `Provider`.
 
 ## Features
 * `User registration`;
